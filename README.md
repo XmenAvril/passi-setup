@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# passi-setup
+# Ubuntu Xenial - GNOME
+My favorite configurations
+=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/XmenAvril/passi-setup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> e49560798d4e7af07eff72b8df1626b1d8d1dd1c
